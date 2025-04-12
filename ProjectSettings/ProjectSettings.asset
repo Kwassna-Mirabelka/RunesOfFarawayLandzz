@@ -143,18 +143,6 @@ PlayerSettings:
   bundleVersion: 0.1.0
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-<<<<<<< HEAD
-  - {fileID: 11400000, guid: 19f6137ad55c400498764a34700ace24, type: 2}
-=======
-<<<<<<< Updated upstream
-  - {fileID: 11400000, guid: 19f6137ad55c400498764a34700ace24, type: 2}
-=======
-  - {fileID: -272686244418645049, guid: 7308a216ff7b1db42bab710578568a17, type: 2}
-  - {fileID: 11400000, guid: 19f6137ad55c400498764a34700ace24, type: 2}
-  - {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
-  - {fileID: 4800000, guid: 0945859e5a1034c2cb6dce53cb4fb899, type: 3}
->>>>>>> Stashed changes
->>>>>>> 050ebae861d6769a8cfa7e7487073baaeb023f79
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -564,9 +552,6 @@ PlayerSettings:
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000
-  - serializedVersion: 3
-    m_BuildTarget: WebGL
-    m_Formats: 05000000
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
